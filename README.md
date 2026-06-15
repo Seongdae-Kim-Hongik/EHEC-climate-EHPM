@@ -1,4 +1,4 @@
-# A Six-Week Heat-Accumulation Window for Weekly EHEC Notifications in Korea, 2005–2024
+# A Five-to-Six-Week Heat-Accumulation Window for Weekly EHEC Notifications in Korea, 2005–2024
 
 Reproducible analysis code for the manuscript submitted to *Environmental Health and Preventive Medicine* (EHPM).
 
@@ -11,7 +11,7 @@ Twenty years (2005–2024) of weekly national enterohaemorrhagic *Escherichia co
 
 ## Headline results (autocorrelation-adjusted)
 - Single-week temperature effect significant at lag 3 (IRR ≈ 1.05 per 1 °C, p ≈ 0.010).
-- Cumulative temperature effect: +9.2 % per 1 °C at the five-week window (significant) and a peak of +8.6 % at six weeks (p ≈ 0.055, borderline).
+- Cumulative temperature effect: +9.2 % per 1 °C at the five-week window (statistically significant maximum), remaining positive but borderline at six weeks (+8.6 %, p ≈ 0.055).
 - Population offset, family choice (NB best), period stratification, and outbreak treatment do not change the conclusion; worst-case season–temperature concurvity = 0.976.
 
 ## Files
@@ -36,7 +36,7 @@ Rscript EHEC_GAM_통합full_v2_260615_reproducible.R
 The script prints Table 1–3, Supplementary Tables S1–S6 values, and the autocorrelation diagnostic; the companion figure script produces Figures 1–2 and S1–S4.
 
 ## Citation
-Kim S, Chun BC. A six-week heat-accumulation window for weekly EHEC notifications in Korea, 2005–2024. *Environ Health Prev Med.* (under review).
+Kim S, Chun BC. A five-to-six-week heat-accumulation window for weekly EHEC notifications in Korea, 2005–2024. *Environ Health Prev Med.* (under review).
 Code archived at Zenodo: https://doi.org/10.5281/zenodo.20695800 (concept DOI)
 
 ## License
