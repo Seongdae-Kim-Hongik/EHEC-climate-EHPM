@@ -1,0 +1,11 @@
+{
+  "title": "A Six-Week Heat-Accumulation Window for Weekly EHEC Notifications in Korea, 2005-2024 — reproducible analysis code",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Kim, Seongdae", "affiliation": "Hongik University; Korea University Graduate School"},
+    {"name": "Chun, Byung Chul", "affiliation": "Korea University College of Medicine"}
+  ],
+  "description": "Reproducible R code (negative-binomial GAMM + distributed lag models, autocorrelation-adjusted with gamm()+corAR1) for the manuscript submitted to Environmental Health and Preventive Medicine. Reproduces the single-lag and cumulative-lag temperature estimates and all supplementary analyses.",
+  "keywords": ["enterohaemorrhagic Escherichia coli", "STEC", "climate-sensitive infectious disease", "distributed lag model", "generalized additive mixed model", "time series", "Republic of Korea"]
+}
