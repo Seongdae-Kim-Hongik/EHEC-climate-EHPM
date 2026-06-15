@@ -16,7 +16,6 @@ Twenty years (2005–2024) of weekly national enterohaemorrhagic *Escherichia co
 
 ## Files
 - `EHEC_GAM_통합full_v2_260615_reproducible.R` — main reproducible pipeline (Tables 1–3, S1–S6; diagnostics).
-- `figures/` — figure scripts (Figure 1–2, S1–S4) and outputs.
 
 ## Data
 The analysis uses aggregated weekly counts with **no personally identifiable information**:
