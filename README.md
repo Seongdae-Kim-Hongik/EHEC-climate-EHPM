@@ -37,7 +37,7 @@ The script prints Table 1–3, Supplementary Tables S1–S6 values, and the auto
 
 ## Citation
 Kim S, Chun BC. A six-week heat-accumulation window for weekly EHEC notifications in Korea, 2005–2024. *Environ Health Prev Med.* (under review).
-Code archived at Zenodo: doi:10.5281/zenodo.XXXXXXX  *(to be added on release)*
+Code archived at Zenodo: https://doi.org/10.5281/zenodo.20695800 (concept DOI)
 
 ## License
 MIT License.
