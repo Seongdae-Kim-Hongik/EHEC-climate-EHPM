@@ -21,7 +21,7 @@ Twenty years (2005–2024) of weekly national enterohaemorrhagic *Escherichia co
 The analysis uses aggregated weekly counts with **no personally identifiable information**:
 - Weekly EHEC notifications — Korea Disease Control and Prevention Agency (KDCA) Infectious Disease Portal.
 - Climate (temperature, humidity, precipitation, wind) — Korea Meteorological Administration (KMA) ASOS, Open MET Data Portal.
-- PM10 — AirKorea / National Institute of Environmental Research (NIER).
+- PM10 — Korea Meteorological Administration (KMA) Open MET Data Portal.
 
 Set `BASE_IV` at the top of the script to your local data directory containing the preprocessed CSVs.
 

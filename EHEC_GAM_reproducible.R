@@ -1,5 +1,5 @@
 # =====================================================================
-#  A Six-Week Heat-Accumulation Window for Weekly EHEC Notifications
+#  A Five-to-Six-Week Heat-Accumulation Window for Weekly EHEC Notifications
 #  in Korea, 2005-2024 — REPRODUCIBLE ANALYSIS CODE (v2, 2026-06-15)
 #  Seongdae Kim, Byung Chul Chun
 # ---------------------------------------------------------------------
@@ -10,11 +10,11 @@
 #  match the EHPM manuscript.
 #
 #  R 4.5.x | dplyr, mgcv, nlme, MASS, dlnm, splines | License: MIT
-#  Data (no PII): KDCA weekly EHEC counts; KMA ASOS climate; AirKorea PM10.
+#  Data (no PII): KDCA weekly EHEC counts; KMA ASOS climate; KMA Open MET Data Portal PM10.
 #
 #  Reproduces (autocorrelation-adjusted, corAR1 + quarterly):
-#    single-lag temp lag3 IRR 1.05 (p~0.010); cumulative 5wk +9.2% (sig),
-#    6wk +8.6% (p~0.055, borderline peak).
+#    single-lag temp lag3 IRR 1.05 (p~0.010); cumulative temperature effect
+#    significant and maximal at the 5-week window (+9.2% per 1 C).
 #
 #  OUTPUT MAP:
 #    Part 2 Table 1 (descriptives+Spearman) | Part 3 Table 2 (single-lag)
